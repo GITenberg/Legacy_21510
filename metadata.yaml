@@ -1,0 +1,29 @@
+_repo: Legacy_21510
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21510-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Schmitz, James H.
+    alias: Schmitz, James Henry
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '24957'
+    url: http://www.gutenberg.org/2009/agents/24957
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Legacy
+url: http://www.gutenberg.org/ebooks/21510
